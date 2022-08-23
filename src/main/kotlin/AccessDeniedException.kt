@@ -1,0 +1,1 @@
+class AccessDeniedException (override val message: String): Throwable(message)
